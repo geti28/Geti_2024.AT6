@@ -1,0 +1,3 @@
+This file describes the UserInputValidator class.
+The class validates a list of strings and returns only the positive integers.
+The info() method displays a short message when validation is complete. 
